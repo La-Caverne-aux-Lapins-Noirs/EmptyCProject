@@ -1,0 +1,6 @@
+*~
+#*#
+*.o
+lib/test/report
+bin/test/report
+*.gc*
